@@ -1,0 +1,11 @@
+#mapa{
+    height: 100%;
+}
+.buttons {
+    text-align: center;
+    padding: 5%;
+}
+
+#button{
+    background-color: aquamarine;
+}
